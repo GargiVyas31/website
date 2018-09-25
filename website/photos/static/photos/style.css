@@ -1,0 +1,11 @@
+body{
+    background: white url("images/milky-way-2695569_960_720.jpg");
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy',cursive;
+}
